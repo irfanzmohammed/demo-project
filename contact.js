@@ -17,7 +17,7 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log("Form  not submitted:", formData);
-    alert("Thank you for not contacting us!");
+    alert("Thank you for just contacting us!");
   };
 
   return (
