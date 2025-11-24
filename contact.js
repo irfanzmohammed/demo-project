@@ -20,6 +20,8 @@ const Contact = () => {
     alert("Thank you for just contacting us!");
   };
 
+  console.log("hello")
+
   return (
     <div style={{ maxWidth: "400px", margin: "40px auto" }}>
       <h2>Contact Us</h2>
