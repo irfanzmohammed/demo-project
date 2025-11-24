@@ -21,6 +21,7 @@ const Contact = () => {
   };
 
   console.log("hello")
+  console.log("hello world")
 
   return (
     <div style={{ maxWidth: "400px", margin: "40px auto" }}>
