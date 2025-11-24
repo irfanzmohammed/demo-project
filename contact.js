@@ -6,7 +6,7 @@ const Contact = () => {
     email: "",
     message: "",
   });
-
+console.log("hello world")
   const handleChange = (e) => {
     setFormData({
       ...formData,
@@ -22,7 +22,6 @@ const Contact = () => {
 
   console.log("hello")
   console.log("hello world")
-
   return (
     <div style={{ maxWidth: "400px", margin: "40px auto" }}>
       <h2>Contact Us</h2>
