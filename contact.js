@@ -6,7 +6,7 @@ const Contact = () => {
     email: "",
     message: "",
   });
-
+console.log("hello world")
   const handleChange = (e) => {
     setFormData({
       ...formData,
