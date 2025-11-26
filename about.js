@@ -1,10 +1,10 @@
-// about.js - Version A (your branch)
+// about.js - Version B (main branch)
 
 function getAboutContent() {
   return `
-    <h1>About Us</h1>
-    <p>Welcome to our website! We are working hard to improve user experience.</p>
-    <p>This content was written by Irfan on his branch.</p>
+    <h1>About Our Company</h1>
+    <p>We are committed to delivering high-quality education and upskilling services.</p>
+    <p>This text was added by another developer on the main branch.</p>
   `;
 }
 
